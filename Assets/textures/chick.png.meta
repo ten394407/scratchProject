@@ -142,12 +142,12 @@ TextureImporter:
       name: chick_0
       rect:
         serializedVersion: 2
-        x: 201
-        y: 195
-        width: 598
-        height: 594
+        x: 202
+        y: 196
+        width: 596
+        height: 592
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -164,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e3dd264fdcfc6cd4c934d7053ab2aa18
     internalID: 0
     vertices: []
     indices: 
@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chick_0: 6544188894419215680
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
